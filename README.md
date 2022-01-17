@@ -15,7 +15,7 @@ a little project that uses python wget module to work
 
 ```console
 # clone the repo
-$ git clone https://github.com/py-fd
+$ git clone https://github.com/Aydeniztr/py-fd
 
 # change the working directory to webserver
 $ cd py-fd
