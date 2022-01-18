@@ -33,7 +33,7 @@ you can literally download every file over http,ftp etc.
 </p>
 
 ## Notes
-You can read hacking.md to modify the program as much as you want .
+You can use this script as a template for wget module while coding on python :]
 
 ## Screen Shots
 <img src="./images/usage.png"/>
